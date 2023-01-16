@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+.kopiko{
+    color: #b7b7b7;
+    text-align: center;
+    padding-bottom: 10px;
+   height: 20px;
+   font-size: 40px;
+    line-height: 2;
+    letter-spacing: 5px;
+}
+.kopiko:hover{
+    color: rgb(185, 74, 40);
+}
+.second{
+    color:#b7b7b7;
+   text-align: center;
+    letter-spacing: 4px;
+    line-height: 3; 
+    border-bottom: #949090 0.5px solid ;
+}
+.button{
+   text-align: center;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 300px;
+    margin-right: 270px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    flex-wrap: wrap;  
+}
+.home:hover,.colle:hover,.news:hover,.about:hover,.shops:hover,.contact:hover{
+    color: rgb(185, 74, 40);
+}
+.one{
+    color: #7A7A7A;;
+    column-gap: 0px;
+    text-align: center;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: -0.6px;
+    margin-top: 130px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.two{
+    color: #7A7A7A;;
+    column-gap: 0px;
+    text-align: center;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: -0.6px;
+}
+.three{
+    color: #7A7A7A;;
+    column-gap: 0px;
+    text-align: center;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: -0.6px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.pic{
+    position: relative;
+    padding-left: 230px;
+   margin-bottom: 300px;
+}
+.icon{
+    width: 35px;
+    height: 35px;
+   padding-left: 450px;
+}
+.icon2{
+    padding-left: 100px;
+    height: 35px;
+    width: 35px;
+}
+.icons{
+    position: relative;
+    padding-bottom: 200px;
+}
+.icon3{
+    height: 35px;
+    width: 35px;
+    padding-left: 100px;
+}
+.icon4{
+    height: 35px;
+    width: 35px;
+    padding-left: 100px;
+}
+.final1{
+    color: #7a7a77;
+    font-size: 14px;
+    text-align: center;
+    padding-right: 250px;
+}
+.final2{
+    color: whitesmoke;
+    font-size: 13px;
+    padding-left: 600px;
+    text-decoration: none;
+    position: relative;
+    bottom: 18px;
+}
+.final3{
+    color: #7a7a77;
+    font-size: 14px;
+    position: relative;
+    bottom: 34px;
+    padding-left: 680px;
+}
+.final4{
+    color: whitesmoke;
+    font-size: 13px;
+    position: relative;
+    bottom: 53.5px;
+    padding-left: 785px;
+    text-decoration: none;
+}
+.final2:hover,.final4:hover{
+    color: rgb(185, 74, 40);   
+}
